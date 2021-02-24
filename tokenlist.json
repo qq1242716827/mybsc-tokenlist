@@ -12,8 +12,16 @@
       "address": "0xa40De93FAC932C00EE686Dc791809d14d30Ab83a",
       "symbol": "ARKBSC",
       "decimals": 18,
-      "chainId": 97,
+      "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ARK.png"
+    },
+    {
+      "name": "my bsc Token",
+      "address": "0xa40De93FAC932C00EE686Dc791809d14d30Ab83a",
+      "symbol": "ARK2BSC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HUSD.png"
     }
   ],
   "version": {

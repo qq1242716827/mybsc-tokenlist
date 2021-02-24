@@ -1,0 +1,24 @@
+{
+  "name": "ArkSwapTest",
+  "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ARK.svg",
+  "keywords": [
+    "arkswap",
+    "defi"
+  ],
+  "timestamp": "2020-09-03T12:37:57.000+00:00",
+  "tokens": [
+    {
+      "name": "my bsc Token",
+      "address": "0xa40De93FAC932C00EE686Dc791809d14d30Ab83a",
+      "symbol": "ARKBSC",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ARK.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}

@@ -1,0 +1,2 @@
+# tokenlist
+Arkswap Token List

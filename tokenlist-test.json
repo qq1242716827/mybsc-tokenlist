@@ -22,6 +22,14 @@
       "decimals": 18,
       "chainId": 97,
       "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HUSD.png"
+    },
+    {
+      "name": "vip token",
+      "address": "0x0989D4Df2cb6d543C9a2AB93aa74cA6b02CBf16f",
+      "symbol": "VIP",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/VIP.png"
     }
   ],
   "version": {

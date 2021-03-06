@@ -30,11 +30,27 @@
       "decimals": 18,
       "chainId": 97,
       "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/VIP.png"
+    },
+    {
+      "name": "akk token",
+      "address": "0x242a40194f007d0e007ba799e4b2f56126a28999",
+      "symbol": "AKK",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ETH.png"
+    },
+    {
+      "name": "akk2 token",
+      "address": "0x2add722e42cc6cac29f509304893bf857734d51c",
+      "symbol": "AKK2",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ETH.png"
     }
   ],
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   }
 }

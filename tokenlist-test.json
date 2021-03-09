@@ -25,7 +25,7 @@
     },
     {
       "name": "vip token",
-      "address": "0x0989D4Df2cb6d543C9a2AB93aa74cA6b02CBf16f",
+      "address": "0x16e8034b55bb825fffc6a049f14930b5d2d830c4",
       "symbol": "VIP",
       "decimals": 18,
       "chainId": 97,
@@ -51,6 +51,6 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 2
+    "patch": 3
   }
 }

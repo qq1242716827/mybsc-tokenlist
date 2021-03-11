@@ -1,6 +1,6 @@
 {
   "name": "ArkSwapTest",
-  "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ARK.svg",
+  "logoURI": "https://raw.githubusercontent.com/qq1242716827/mybsc-tokenlist/master/assets/ARK.svg",
   "keywords": [
     "arkswap",
     "defi"
@@ -13,7 +13,7 @@
       "symbol": "ARKBSC",
       "decimals": 18,
       "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ARK.png"
+      "logoURI": "https://raw.githubusercontent.com/qq1242716827/mybsc-tokenlist/master/assets/ARK.png"
     },
     {
       "name": "my bsc Token",
@@ -21,7 +21,7 @@
       "symbol": "ARK2BSC",
       "decimals": 18,
       "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HUSD.png"
+      "logoURI": "https://raw.githubusercontent.com/qq1242716827/mybsc-tokenlist/master/assets/HUSD.png"
     },
     {
       "name": "vip token",
@@ -29,7 +29,7 @@
       "symbol": "VIP",
       "decimals": 18,
       "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/VIP.png"
+      "logoURI": "https://raw.githubusercontent.com/qq1242716827/mybsc-tokenlist/master/assets/VIP.png"
     },
     {
       "name": "akk token",
@@ -37,7 +37,7 @@
       "symbol": "AKK",
       "decimals": 18,
       "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ETH.png"
+      "logoURI": "https://raw.githubusercontent.com/qq1242716827/mybsc-tokenlist/master/assets/ETH.png"
     },
     {
       "name": "akk2 token",
@@ -45,7 +45,7 @@
       "symbol": "AKK2",
       "decimals": 18,
       "chainId": 97,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ETH.png"
+      "logoURI": "https://raw.githubusercontent.com/qq1242716827/mybsc-tokenlist/master/assets/ETH.png"
     }
   ],
   "version": {

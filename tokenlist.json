@@ -1,27 +1,51 @@
 {
-  "name": "ArkSwap",
-  "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ARK.svg",
+  "name": "VipSwap",
+  "logoURI": "https://raw.githubusercontent.com/qq1242716827/mybsc-tokenlist/master/assets/VIP.png",
   "keywords": [
-    "arkswap",
+    "vipswap",
     "defi"
   ],
-  "timestamp": "2020-09-03T12:37:57.000+00:00",
+  "timestamp": "2021-03-11T12:37:57.000+00:00",
   "tokens": [
     {
-      "name": "my bsc Token",
+      "name": "ARKBSC Token",
       "address": "0xa40De93FAC932C00EE686Dc791809d14d30Ab83a",
       "symbol": "ARKBSC",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/ARK.png"
+      "logoURI": "https://raw.githubusercontent.com/qq1242716827/mybsc-tokenlist/master/assets/ARK.png"
     },
     {
-      "name": "my bsc Token",
+      "name": "ARK2BSC Token",
       "address": "0xF8C1B158fC82188E555c5A8a9149aA14fb153B89",
       "symbol": "ARK2BSC",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/arkswap/tokenlist/master/assets/HUSD.png"
+      "logoURI": "https://raw.githubusercontent.com/qq1242716827/mybsc-tokenlist/master/assets/HUSD.png"
+    },
+    {
+      "name": "vip token",
+      "address": "0x16e8034b55bb825fffc6a049f14930b5d2d830c4",
+      "symbol": "VIP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/qq1242716827/mybsc-tokenlist/master/assets/VIP.png"
+    },
+    {
+      "name": "akk token",
+      "address": "0x242a40194f007d0e007ba799e4b2f56126a28999",
+      "symbol": "AKK",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/qq1242716827/mybsc-tokenlist/master/assets/ETH.png"
+    },
+    {
+      "name": "akk2 token",
+      "address": "0x2add722e42cc6cac29f509304893bf857734d51c",
+      "symbol": "AKK2",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/qq1242716827/mybsc-tokenlist/master/assets/ETH.png"
     }
   ],
   "version": {

@@ -8,49 +8,77 @@
   "timestamp": "2021-03-11T12:37:57.000+00:00",
   "tokens": [
     {
-      "name": "ARKBSC Token",
-      "address": "0xa40De93FAC932C00EE686Dc791809d14d30Ab83a",
-      "symbol": "ARKBSC",
-      "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/qq1242716827/mybsc-tokenlist/master/assets/ARK.png"
-    },
-    {
-      "name": "ARK2BSC Token",
-      "address": "0xF8C1B158fC82188E555c5A8a9149aA14fb153B89",
-      "symbol": "ARK2BSC",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/qq1242716827/mybsc-tokenlist/master/assets/HUSD.png"
-    },
-    {
-      "name": "vip token",
-      "address": "0x16e8034b55bb825fffc6a049f14930b5d2d830c4",
+      "asset": "",
+      "type": "",
+      "address": "",
+      "name": "VIP",
       "symbol": "VIP",
       "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/qq1242716827/mybsc-tokenlist/master/assets/VIP.png"
+      "logoURI": "https://raw.githubusercontent.com/qq1242716827/mybsc-tokenlist/master/assets/VIP.png",
+      "pairs": []
     },
     {
-      "name": "akk token",
-      "address": "0x242a40194f007d0e007ba799e4b2f56126a28999",
-      "symbol": "AKK",
-      "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/qq1242716827/mybsc-tokenlist/master/assets/ETH.png"
+      "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "type": "BEP20",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+      "pairs": []
     },
     {
-      "name": "akk2 token",
-      "address": "0x2add722e42cc6cac29f509304893bf857734d51c",
-      "symbol": "AKK2",
-      "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/qq1242716827/mybsc-tokenlist/master/assets/ETH.png"
+      "asset": "c20000714_t0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "type": "BEP20",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png",
+      "pairs": []
+    },
+    {
+      "chainId": 56,
+      "asset": "c20000714_t0x55d398326f99059fF775485246999027B3197955",
+      "type": "BEP20",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Binance-Peg Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png",
+      "pairs": []
+    },
+    {
+      "chainId": 56,
+      "asset": "c20000714_t0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "type": "BEP20",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "name": "Binance-Peg BTCB Token",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c/logo.png",
+      "pairs": []
+    },
+
+    {
+      "chainId": 56,
+      "asset": "c20000714_t0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "type": "BEP20",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "name": "BUSD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56/logo.png",
+      "pairs": []
     }
+
   ],
   "version": {
-    "major": 0,
-    "minor": 1,
+    "major": 1,
+    "minor": 0,
     "patch": 0
   }
 }

@@ -9,8 +9,8 @@
   "tokens": [
     {
       "chainId": 56,
-      "asset": "",
-      "type": "",
+      "asset": "11",
+      "type": "22",
       "address": "0x16e8034b55bb825fffc6a049f14930b5d2d830c4",
       "name": "VIP",
       "symbol": "VIP",
